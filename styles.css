@@ -1,8 +1,27 @@
 body {
 background: #F0CA8D;
+background-attachment: fixed;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: #8DA0F0;
+color: black;
 text-align: center;
+font-family: "Press Start 2P",sans-serif, Arial;
+font-weight: bold;
+}
+.about {
+color: #8DA0F0;
+font-family: "Copperplate",'Courier New', Courier, monospace;
+}
+.skills {
+color: aquamarine;
+font-family: "Copperplate",'Courier New', Courier, monospace;
+}
+.projects {
+color: darkslateblue;
+font-family: "Copperplate",'Courier New', Courier, monospace;
+}
+.contact {
+color: azure;
+font-family: "Copperplate",'Courier New', Courier, monospace;
 }
