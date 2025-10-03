@@ -8,6 +8,7 @@ color: black;
 text-align: center;
 font-family: "Press Start 2P",sans-serif, Arial;
 font-weight: bold;
+src: url(https://fonts.google.com/specimen/Press+Start+2P) format("woff2");
 }
 .about {
 color: #8DA0F0;
